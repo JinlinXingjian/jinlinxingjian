@@ -4,6 +4,6 @@
 
 更多信息请前往我的个人博客
 
-<img src="/assets/blog.png" style="zoom: 33%;" />
+<img src="/assets/blog.png" style="zoom: 25%;" />
 
 [金鳞星溅的个人博客 - 分享知识就是乐趣 (jinlinxingjian.top)](https://jinlinxingjian.top/)
