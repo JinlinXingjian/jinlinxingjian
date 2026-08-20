@@ -14,13 +14,16 @@
 
 ## 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics)](https://github.com/JinlinXingjian/Command-line-tool-for-GitHub-repository-metrics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JinlinXingjian&repo=JinlinXingjian.github.io)](https://github.com/JinlinXingjian/JinlinXingjian.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform)](https://github.com/JinlinXingjian/JavaWeb-Online-Instrument-Teaching-Platform)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JinlinXingjian&repo=DataBaseHomeWork)](https://github.com/JinlinXingjian/DataBaseHomeWork)
+[![](https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics&theme=onedark)](https://github.com/JinlinXingjian/Command-line-tool-for-GitHub-repository-metrics)
+
+[![](https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JinlinXingjian.github.io&theme=onedark)](https://github.com/JinlinXingjian/JinlinXingjian.github.io)
+
+[![](https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform&theme=onedark)](https://github.com/JinlinXingjian/JavaWeb-Online-Instrument-Teaching-Platform)
+
+[![](https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=DataBaseHomeWork&theme=onedark)](https://github.com/JinlinXingjian/DataBaseHomeWork)
 
 ## 我的编程语言使用情况
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinlinXingjian&layout=compact&langs_count=6)
+[![Top Langs - dark](https://github-readme-stats-three-zeta-22.vercel.app/api/top-langs?username=JinlinXingjian&theme=dark)](https://github.com/JinlinXingjian)
 
 ## 博客最新文章
 * <a href='https://jinlinxingjian.github.io/fa751fc9f08b/' target='_blank'>IDEA中连接MYSQL失败问题</a> - 2024-01-04
