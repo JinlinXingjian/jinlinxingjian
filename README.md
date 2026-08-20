@@ -14,36 +14,25 @@
 
 ## 开源项目
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JinlinXingjian/Command-line-tool-for-GitHub-repository-metrics">
-        <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics&theme=default" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JinlinXingjian/JinlinXingjian.github.io">
-        <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JinlinXingjian.github.io&theme=default" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JinlinXingjian/JavaWeb-Online-Instrument-Teaching-Platform">
-        <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform&theme=default" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JinlinXingjian/DataBaseHomeWork">
-        <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=DataBaseHomeWork&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://github.com/JinlinXingjian/Command-line-tool-for-GitHub-repository-metrics">
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics&theme=default" />
+  </a>
+  <a href="https://github.com/JinlinXingjian/JinlinXingjian.github.io">
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JinlinXingjian.github.io&theme=default" />
+  </a>
+  <a href="https://github.com/JinlinXingjian/JavaWeb-Online-Instrument-Teaching-Platform">
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform&theme=default" />
+  </a>
+  <a href="https://github.com/JinlinXingjian/DataBaseHomeWork">
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=DataBaseHomeWork&theme=default" />
+  </a>
+</div>
 
 ## 我的编程语言使用情况
 
 [![Top Langs](https://github-readme-stats-three-zeta-22.vercel.app/api/top-langs?username=JinlinXingjian&theme=default)](https://github.com/JinlinXingjian)
+
 ## 博客最新文章
 * <a href='https://jinlinxingjian.github.io/fa751fc9f08b/' target='_blank'>IDEA中连接MYSQL失败问题</a> - 2024-01-04
 * <a href='https://jinlinxingjian.github.io/27885b29becc/' target='_blank'>await axios竟然返回undefined？（已解决）</a> - 2023-06-14
