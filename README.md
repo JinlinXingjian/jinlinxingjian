@@ -16,13 +16,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://github.com/JinlinXingjian/Command-line-tool-for-GitHub-repository-metrics">
-    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=Command-line-tool-for-GitHub-repository-metrics&theme=default" />
   </a>
   <a href="https://github.com/JinlinXingjian/JinlinXingjian.github.io">
     <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JinlinXingjian.github.io&theme=default" />
   </a>
   <a href="https://github.com/JinlinXingjian/JavaWeb-Online-Instrument-Teaching-Platform">
-    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform&theme=defaul&hide_border=truet" />
+    <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=JavaWeb-Online-Instrument-Teaching-Platform&theme=default" />
   </a>
   <a href="https://github.com/JinlinXingjian/DataBaseHomeWork">
     <img src="https://github-readme-stats-three-zeta-22.vercel.app/api/pin?username=JinlinXingjian&repo=DataBaseHomeWork&theme=default" />
